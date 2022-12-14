@@ -1,0 +1,50 @@
+h1{
+	background-image: linear-gradient(to right, #4c86b5, #3a308c);
+	border-color: #c8c7d4;
+	border-style: double;
+	border-width: 10px;
+	margin-left: 60px;
+	margin-right: 60px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+table {
+	background-color:rgba(79, 77, 125,0.3);
+	margin: 15px;
+	margin-bottom: 50px;
+	border-color: #11081c;
+	border-style: ridge; 
+}
+img {
+	height: 500px;
+	width: 380px;
+	margin-bottom: 6px;
+	border-style: solid;
+	border-color: #11081c;
+}
+body {
+	background-image: url(spac.gif);
+	background-size: cover;
+	color: #ffffffff
+
+}
+td {
+	text-align: center;
+}
+ul {
+	text-align: left
+}
+a {
+	color: lightblue
+}
+h3 {
+	text-decoration: underline;
+}
+div{
+	background-color:rgba(160, 103, 191,0.6);
+}
+form{
+	margin-left: 40px
+}
